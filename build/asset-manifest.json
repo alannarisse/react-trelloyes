@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-trelloyes/static/css/main.984ace5c.chunk.css",
+    "main.js": "/react-trelloyes/static/js/main.c07caf98.chunk.js",
+    "main.js.map": "/react-trelloyes/static/js/main.c07caf98.chunk.js.map",
+    "runtime~main.js": "/react-trelloyes/static/js/runtime~main.bc44e323.js",
+    "runtime~main.js.map": "/react-trelloyes/static/js/runtime~main.bc44e323.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-trelloyes/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-trelloyes/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-trelloyes/index.html",
+    "precache-manifest.f294d9ec6e833f9953d38d3073cb8dd4.js": "/react-trelloyes/precache-manifest.f294d9ec6e833f9953d38d3073cb8dd4.js",
+    "service-worker.js": "/react-trelloyes/service-worker.js",
+    "static/css/main.984ace5c.chunk.css.map": "/react-trelloyes/static/css/main.984ace5c.chunk.css.map"
+  }
+}
